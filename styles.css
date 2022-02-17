@@ -1,0 +1,19 @@
+input{
+    width:25px
+}
+#form{
+    width:200px
+    float:right;
+    text-align:right;
+}
+#interface div, #interface input{
+    padding:10px;
+    border:1px solid purple;
+    margin:0 auto;
+    width:100px;
+    text-align:center;
+    display:block;
+}
+#interface #buttonBox {
+    border:none;
+}

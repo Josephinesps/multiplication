@@ -1,0 +1,2 @@
+get the local storage with the variables
+get the localStorage.getItem("min");
