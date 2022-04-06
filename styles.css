@@ -24,7 +24,3 @@ input{
 #interface #buttonBox {
     border:none;
 }
-
-button:hover {
-    background-color: #4CAF50; /* Green */
-}
